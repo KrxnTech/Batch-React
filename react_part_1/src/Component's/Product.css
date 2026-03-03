@@ -1,0 +1,11 @@
+.CARD {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.CARD:hover {
+    background-color: #333;
+}
